@@ -1,0 +1,44 @@
+/**
+ * go4mi.css
+ * haosenwei
+ * 2018-4-3
+ */
+ 
+ 
+.header-nav span{
+	font-weight:600;
+	font-size:18px;
+	color:#1a1a1a;
+	padding-left:15px;
+	padding-right:15px;
+	line-height:80px;
+}
+.header-nav .active-title{
+	color:#19c2c8;
+}
+a{
+	text-decoration:none;			
+}
+a:hover{
+	text-decoration:none;
+}
+		
+		
+		
+.dl-horizontal dt{
+	width:22px;
+	line-height:40px;
+	color:#ffffff;
+}
+.dl-horizontal dd{
+	margin-left:36px;
+	line-height:40px;
+	font-size:16px;
+	color:#ffffff;
+}
+.list-unstyled li{
+	text-align:center;
+	line-height:30px;
+	font-size:16px;
+	color:#ffffff;
+}
